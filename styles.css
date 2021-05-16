@@ -1,0 +1,25 @@
+.col-xs-0, 
+.col-sm-0,
+.col-md-0,
+.col-lg-0 {
+  flex: 0 0 0;
+  max-width: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+
+#denemeedsadas {
+	float: right;
+	color: rgb(255,0,0);
+}
+
+#navbarMain {
+	margin-left: auto;
+
+}
+
+body {
+    color: rgb(255,0,0);
+}
+
